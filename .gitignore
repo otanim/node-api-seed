@@ -1,0 +1,24 @@
+#npm logs
+npm-debug.log
+
+#Windows desktop files
+desktop.ini
+
+#WebStorm
+.idea
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# node-waf configuration
+.lock-wscript
+
+# Node modules
+node_modules
